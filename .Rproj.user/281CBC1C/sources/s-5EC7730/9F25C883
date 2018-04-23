@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524472700373.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1550380384",
+    "id" : "9F25C883",
+    "lastKnownWriteTime" : 1524472694,
+    "last_content_update" : 1524472694,
+    "path" : "~/RStudio/SampleRmarkdown1/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
